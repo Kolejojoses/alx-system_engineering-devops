@@ -9,3 +9,5 @@
 8. James Bond
 11. Directories
 10. Look in the mirror
+11. Directories
+12. More directories
